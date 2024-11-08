@@ -1,6 +1,6 @@
 {
-  "name": "ULTRA MD",
-  "description": " Whatsapp bot made by GlobalTechInfo.",
+  "name": "Tesko",
+  "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp"
   ],
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "923444844060"
+      "value": "23428930328"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ULTRA-MD"
+      "value": "Tesko"
     },
     "DATABASE_URL": {
       "description": "your mongodb or database url",
@@ -25,7 +25,7 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
